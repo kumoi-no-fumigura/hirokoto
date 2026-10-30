@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hirokoto",
  "yomi": "これむねのひろことしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期（永暦〜寿永）",
+  "author": "惟宗広言",
+  "desc": "惟宗広言の家集。端に「自永暦至寿永」とあり、その間の歌を四季・恋・雑に分けて収める。奥書に阿仏の真跡本から写したとある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1173,6 +1178,6 @@
   "poems": 100,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
